@@ -9,5 +9,5 @@ so that human structure and intent can be implemented as accurately as possible.
 
 Currently building the following products:
 - _[Poketto](https://pokettoo.vercel.app)_ — Fast and minimal service for collecting, saving, and revisiting links you care about.
-- _Poketto Chrome Extension_ — A Chrome extension that works seamlessly with Poketto (currently building...)
-- _[Utsuwa](https://utsuwaa.vercel.app)_ - Unique personal page by arranging your links, words, and images as simple blocks.
+- _Poketto Chrome Extension_ — A Chrome extension that works seamlessly with Poketto (currently building)
+- _[Untitled](https://beyondthewave.vercel.app)_ - A Link in Bio, simple but fancy.
