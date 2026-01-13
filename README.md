@@ -1,4 +1,4 @@
-Frontend developer<br />
+**Frontend developer**<br />
 Builds across disciplines<br />
 From backend to design when needed<br />
 Structure-first. AI as a working partner
