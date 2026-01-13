@@ -1,7 +1,7 @@
-<p>Frontend developer</p>
-<p>Builds across disciplines</p>
-<p>From backend to design when needed</p>
-<p>Structure-first. AI as a working partner</p>
+Frontend developer<br />
+Builds across disciplines<br />
+From backend to design when needed<br />
+Structure-first. AI as a working partner
 
 Currently building the following products:
 - _[Poketto](https://pokettoo.vercel.app)_ — Fast and minimal service for collecting, saving, and revisiting links you care about.
