@@ -10,5 +10,5 @@ Currently building the following products:
 - [og-crawler-server](https://github.com/justhumanb2ing/og-crawler-server) - An Express server that collects Open Graph (OG) metadata using both static and dynamic crawling.
 
 Projects participated in:
-- Uket: Pre-ticketing service for the show ([web](https://uket.co.kr), [github](https://github.com/justhumanb2ing/justhumanb2ing/edit/main/README.md))
-- MoGakGo: 1:1 mogakgo matching service ([github](https://github.com/justhumanb2ing/justhumanb2ing/edit/main/README.md))
+- Uket: Pre-ticketing service for the show ([web](https://uket.co.kr), [github]([https://github.com/justhumanb2ing/justhumanb2ing/edit/main/README.md](https://github.com/DCNJ-Uket/Uket-FE-v2)))
+- MoGakGo: 1:1 mogakgo matching service ([github]([https://github.com/justhumanb2ing/justhumanb2ing/edit/main/README.md](https://github.com/Open-Eye-Im-Developer/MoGakGo-FE)))
