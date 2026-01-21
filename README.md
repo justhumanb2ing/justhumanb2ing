@@ -3,6 +3,8 @@ Builds across disciplines<br />
 From backend to design when needed<br />
 Structure-first. AI as a working partner
 
+[Fancy profile](https://re-zero-theta.vercel.app/en/@justhumanb2ing)
+
 Currently building the following products:
 - [Poketto](https://pokettoo.vercel.app) — Fast and minimal service for collecting, saving, and revisiting links you care about.
 - Poketto Chrome Extension — A Chrome extension that works seamlessly with Poketto. (under development)
