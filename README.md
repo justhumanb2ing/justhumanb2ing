@@ -6,7 +6,7 @@ Structure-first. AI as a working partner
 Currently building the following products:
 - [Poketto](https://pokettoo.vercel.app) — Fast and minimal service for collecting, saving, and revisiting links you care about.
 - Poketto Chrome Extension — A Chrome extension that works seamlessly with Poketto. (under development)
-- [Pseudonym](https://re-zero-theta.vercel.app) - A Link in Bio, simple but fancy. (deprecated: [web](https://beyondthewave.vercel.app),[github](https://github.com/justhumanb2ing/untitled))
+- [Pseudonym](https://venus.zentechie7.workers.dev/) - A Link in Bio, simple but fancy.
 - [og-crawler-server](https://github.com/justhumanb2ing/og-crawler-server) - An Express server that collects Open Graph (OG) metadata using both static and dynamic crawling.
 
 Projects participated in:
