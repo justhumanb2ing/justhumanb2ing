@@ -3,7 +3,7 @@ Builds across disciplines<br />
 From backend to design when needed<br />
 Structure-first. AI as a working partner
 
-<span style="color:#000;">[My Profile](https://tsuki-sigma.vercel.app/@justhumanbeing)</span><br />
+[My Profile](https://justsouknow.me/@kinmongsang)<br />
 
 Currently building the following products:
 - [Poketto](https://pokettoo.vercel.app) — Fast and minimal service for collecting, saving, and revisiting links you care about.
