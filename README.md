@@ -1,9 +1,10 @@
+<!--
 **Frontend developer**<br />
 Builds across disciplines<br />
 From backend to design when needed<br />
-Structure-first. AI as a working partner
+Structure-first. AI as a working partner -->
 
-[My Profile](https://justsouknow.me/@kinmongsang)<br />
+[Profile](https://justsouknow.me/@kinmongsang)<br />
 
 Currently building the following products:
 - [Poketto](https://pokettoo.vercel.app) — Fast and minimal service for collecting, saving, and revisiting links you care about.
