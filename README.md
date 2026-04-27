@@ -25,3 +25,10 @@ Hold the line long enough and you win.
 </em></sub></p>
 
 **[affaanmustafa.com →](https://affaanmustafa.com)** -->
+
+
+<sub><em>
+Stop scattering your links everywhere.
+<br/>
+No more boring pages. − [@harune.me](https://harune.me)
+</em></sub>
