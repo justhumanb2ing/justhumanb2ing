@@ -31,10 +31,14 @@ Hold the line long enough and you win.
 Stop scattering your links everywhere.
 <br/>
 No more boring pages. − [@harune.me](https://harune.me)
-
+</em></sub>
 <br/>
-<br/>
 
+<sub><em>
 See how the world lives.
-Real places, real people, shared through photos. - [@umbrella](#)
+<br/>
+Real places, real people, shared through photos. - [@umbrella](#not-yet)
+</em></sub>
+
+<sub><em>
 </em></sub>
