@@ -28,16 +28,12 @@ Hold the line long enough and you win.
 
 
 <sub><em>
-Stop scattering your links everywhere.
-<br/>
-No more boring pages. − [@harune.me](https://harune.me)
+A Link in Bio, the most beautiful and clean you've ever seen − [Grabbin](https://grabbin.me)
 </em></sub>
 <br/>
 
 <sub><em>
-See how the world lives.
-<br/>
-Real places, real people, shared through photos. - [@umbrella](#not-yet)
+Privacy-first analytics for the modern web - [Foundly](https://foundly.cc)
 </em></sub>
 
 <sub><em>
